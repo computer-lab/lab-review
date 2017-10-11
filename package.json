@@ -1,0 +1,19 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "Web service to check status of Computer Lab apps.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computer-lab/review.git"
+  },
+  "author": "Computer Lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/computer-lab/review/issues"
+  },
+  "homepage": "https://github.com/computer-lab/review#readme"
+}
